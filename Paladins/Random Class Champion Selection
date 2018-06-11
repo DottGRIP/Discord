@@ -1,19 +1,16 @@
-Damage:
 y.choose
+
+Damage:
 Bomb King|Cassie|Drogoz|Kinessa|Lian|Sha Lin|Strix|Tyra|Viktor|Vivian|Willow
 
 Frontline:
-y.choose
 Ash|Barik|Fernando|Inara|Khan|Makoa|Ruckus|Terminus|Torvald
 
 Flanker:
-y.choose
 Androxus|Buck|Evie|Lex|Maeve|Moji|Skye|Talus|Zhin
 
 Support:
-y.choose
 Furia|Grohk|Grover|Jenos|Mal'Damba|Pip|Seris|Ying
 
 Any:
-y.choose
 Bomb King|Cassie|Drogoz|Kinessa|Lian|Sha Lin|Strix|Tyra|Viktor|Vivian|Willow|Ash|Barik|Fernando|Inara|Khan|Makoa|Ruckus|Terminus|Torvald|Androxus|Buck|Evie|Lex|Maeve|Moji|Skye|Talus|Zhin|Furia|Grohk|Grover|Jenos|Mal'Damba|Pip|Seris|Ying
