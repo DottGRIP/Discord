@@ -1,2 +1,25 @@
 In the event of any dottGRIP member getting his or her position revoked,
   an appeal can be submitted for review,
+  Conditions:
+    Acceptance-
+      once a member is revoked of any position or permissions, said member has exactly 15 days for an appeal to be sent on their behalf,
+        if no appeal is sent within those 15 days or one is sent after, the member will likely have their permissions revoked permanently.
+      if said appeal is accepted, the revoked permissions will be re-gained and the user will be invited to rejoin the team.
+    Declination-
+      in order for an appeal to be denied, it must first be reviewed by at least 1 administrator,
+        the admin(s) who do so will be required to give a valid and reasonable explanation as to why the appeal has been denied.
+      if an appeal has been submitted for a former-member who had their permissions revoked with a severity level higher than 2,
+        the appeal will automatically be declined and will recieve no further attention.
+    Applicable members-
+      any member of the dottGRIP Team will have the ability to submit an appeal.
+
+***FORM***
+"(^)" = required
+----------------
+(^) Name (from)   :
+-
+(^) Recipient (to):
+-
+----------------
+additional information:
+-
